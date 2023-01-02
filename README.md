@@ -9,7 +9,7 @@ Teaching Assistants:
 - Loren Nix
 - Jeremy Chen
 
-TAs will host a coding session on Friday morning.  *Attendance is required*.
+TAs will host a coding session on Friday morning.  *Attendance is strongly encouraged*.
 
 ## Class meetings
 
