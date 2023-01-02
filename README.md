@@ -1,24 +1,25 @@
-# FIN 373: Policy Research Laboratory
+# Data Science for Economics and Policy
 
-Welcome to the Fall 2022 edition of Policy Research Laboratory, a course on causal inference and data-driven policy research.  All course materials can be found on this GitHub page.  Please see the [course syllabus](syllabus.pdf) for links and descriptions of the readings mentioned below.
+Welcome to the Spring 2023 edition of FIN372, a course on causal inference and data-driven policy/econ research.  All course materials can be found on this GitHub page.  Please see the [course syllabus](syllabus.pdf) for links and descriptions of the readings mentioned below.
 
 Instructors:  
-- Prof. David Puelz.  Office hours Tuesday and Thursday, from 2:00p-3:00p in CBA 6.444.
+- Prof. David Puelz.  Office hours Tuesday and Wednesday, from 12:00p-1:00p in CBA 6.444 and over Zoom, respectively.  Always happy to schedule alternative times, just send me an email!
 
 Teaching Assistants:
-- Ashna Bhansali
-- Myeongrok Doh, "Doh"
+- Loren Nix
+- Jeremy Chen
 
 TAs will host a coding session on Friday morning.  *Attendance is required*.
 
 ## Class meetings
 
-- Tuesday and Thursday, from 12:30p-2:00p in CBA 6.420.
-- Friday, from 10:00a-11:30a in GSB 5.154.
+- Tuesday and Thursday, from 11:00p-12:30p in CBA 2.564.
+- Friday, from 10:00a-11:30a in TBA.
 
 ## Exercises
 
-There will be individual, weekly exercises to be turned in each Tuesday before each class via canvas.  They will be posted here each Monday of the prior week.  
+There will be individual, weekly exercises to be turned in each Tuesday by 11:59p via Canvas.  They will be posted here each Monday of the prior week.  
+<!---
 
 - [Week 1 exercises](assignments/HW1.pdf). Due 8/30. Data: [cars.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Policy-Research-Laboratory/blob/main/data/cars.csv).
 - [Week 2 exercises](assignments/HW2.pdf). Due 9/6. Data: [turnout.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Policy-Research-Laboratory/blob/main/data/turnout.csv) and [STAR.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Policy-Research-Laboratory/blob/main/data/STAR.csv).
@@ -33,10 +34,18 @@ There will be individual, weekly exercises to be turned in each Tuesday before e
 - [Week 11 exercises](assignments/HW10.pdf). Due 11/8.  This homework asks for initial project summaries.
 - [Week 12 exercises](assignments/HW11.pdf). Due 11/15. Data: [newspapers.RData](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Policy-Research-Laboratory/blob/main/data/newspapers.RData). 
 
+--->
+
 
 ## Midterm and Project
 
+Details about the midterm on 10/20 and the final project will be provided at a later date.
+
+<!---
+
 Details about the midterm on 10/20 and the final project can be found [here](slides/PRL-project_midterm.pdf).
+
+--->
 
 A couple places to look for data:
 - [Harvard Dataverse](https://dataverse.harvard.edu).  Compilation of data (and code) from research projects ranging from medicine and law to business and public policy.  Often accompanied by a peer-reviewed paper.
@@ -46,10 +55,6 @@ A couple places to look for data:
 - [McCombs Business Research Center](https://guides.lib.utexas.edu/BRC).
 - [Tyler Moore's website: Cybersecurity and Crypto-related research](https://tylermoore.ens.utulsa.edu/pub.html).
 
-Project presentation schedule is:
-
-- Tuesday, November 29: Loren / Ranak + Charles + Mehar / Ruijia + Jessica
-- Thursday, December 1: Michelle + Grace + Anusha / Jeremy + Sarah + Sahas
 
 ## Software
 
