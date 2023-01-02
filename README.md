@@ -64,7 +64,7 @@ Please install [R](http://www.r-project.org) and then [RStudio](http://www.rstud
 
 ### (1) Introduction
 
-Slides: [Intro](slides/PRL-intro.pdf)
+Slides: [Intro](slides/intro.pdf)
 
 Code for class:
 - [Basic R functionality](code/intro1.R)
@@ -75,7 +75,7 @@ Readings:
 
 ### (2) Causality
 
-Slides: [Causality](slides/PRL-causality.pdf)
+Slides: [Causality](slides/causality.pdf)
 
 Exercises (in-class):
 - [Draft lottery](code/draftlottery.md) and [survey.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Policy-Research-Laboratory/blob/main/data/survey.csv)
@@ -87,7 +87,7 @@ Code for class:
 
 ### (3) Probability
 
-Slides: [Probability](slides/PRL-probability.pdf)
+Slides: [Probability](slides/probability.pdf)
 
 Code for class:
 - [Simulating random variables](code/probability.R)
@@ -98,7 +98,7 @@ Readings:
 
 ### (4) Prediction
 
-Slides: [Prediction](slides/PRL-prediction.pdf)
+Slides: [Prediction](slides/prediction.pdf)
 
 Code for class:
 - [Fitting linear models with R](code/linearmodels.R)
@@ -108,7 +108,7 @@ Code for class:
 
 ### (5) Unsupervised learning
 
-Slides: [Unsupervised learning](slides/PRL-unsupervised.pdf)
+Slides: [Unsupervised learning](slides/unsupervised.pdf)
 
 Code for class:
 - [K-means++](code/cars.R) and [cars.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Policy-Research-Laboratory/blob/main/data/cars.csv)
@@ -118,7 +118,7 @@ Code for class:
 
 ### (6) Networks + Text 
 
-Slides: [Networks](slides/PRL-networks.pdf) & [Text](slides/PRL-text.pdf)
+Slides: [Networks](slides/networks.pdf) & [Text](slides/text.pdf)
 
 Code for class:
 - [Medici family](code/medici.R)
@@ -129,7 +129,7 @@ Code for class:
 
 ### (7) Advanced topics in causal inference
 
-Slides: [Bias-variance tradeoff](slides/PRL-biasvariancetradeoff.pdf) & [ML for causal inference](slides/PRL-selectionandRIC.pdf).
+Slides: [Bias-variance tradeoff](slides/biasvariancetradeoff.pdf) & [ML for causal inference](slides/selectionandRIC.pdf).
 
 Code for class:
 - [BART example](code/makeBARTsim.R)
@@ -141,4 +141,4 @@ Readings:
 
 ### (8) Data visualization
 
-Slides: [Introduction to data visualization](slides/PRL-datavizslides.pdf)
+Slides: [Introduction to data visualization](slides/datavizslides.pdf)
