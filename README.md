@@ -1,6 +1,6 @@
 # Data Science for Economics and Policy
 
-Welcome to the Spring 2023 edition of FIN372, a course on causal inference and data-driven policy/econ research.  All course materials can be found on this GitHub page.  Please see the [course syllabus](syllabus.pdf) for links and descriptions of the readings mentioned below.
+Welcome to the Spring 2023 edition of FIN372, a course on the best data science methods to solve problems in economics and policy.  All course materials can be found on this GitHub page.  Please see the [course syllabus](syllabus.pdf) for links and descriptions of the readings mentioned below.
 
 Instructors:  
 - Prof. David Puelz.  Office hours Tuesday and Wednesday, from 12:00p-1:00p in CBA 6.444 and over Zoom, respectively.  Always happy to schedule alternative times, just send me an email!
