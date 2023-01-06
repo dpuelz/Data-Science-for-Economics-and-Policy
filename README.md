@@ -9,7 +9,7 @@ Teaching Assistants:
 - Loren Nix
 - Jeremy Chen
 
-TAs will host a coding session on Friday from 10:00a-11:30a in TBA.  *Attendance is strongly encouraged*.
+TAs will host a coding session on Friday from 9:00a-10:30a in TBA.  *Attendance is strongly encouraged*.
 
 ## Class meetings
 
