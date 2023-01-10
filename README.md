@@ -6,8 +6,8 @@ Instructor:
 - Prof. David Puelz.  Office hours Tuesday and Wednesday, from 12:30p-1:30p in CBA 6.444 and over Zoom, respectively.  Always happy to schedule alternative times, just send me an email!
 
 Teaching Assistants:
-- Loren Nix
-- Jeremy Chen
+- Loren Nix (lorennix@utexas.edu)
+- Jeremy Chen (jeremychen03@gmail.com)
 
 TAs will host a coding session on Friday from 9:00a-10:30a in CBA 4.342.  *Attendance is strongly encouraged*.
 
