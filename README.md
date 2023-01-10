@@ -85,6 +85,7 @@ Code for class:
 Readings:  
 - [Introduction to RMarkdown](http://rmarkdown.rstudio.com)  
 - [RMarkdown tutorial](https://rmarkdown.rstudio.com/lesson-1.html)  
+- [Rmd example file](code/example.Rmd)
 
 ### (2) Causality
 
