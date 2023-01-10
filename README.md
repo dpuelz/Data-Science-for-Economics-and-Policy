@@ -80,7 +80,7 @@ Please install [R](http://www.r-project.org) and then [RStudio](http://www.rstud
 Slides: [Intro](slides/intro.pdf)
 
 Code for class:
-- [Basic R functionality](code/intro1.R)
+- [Basic R functionality](code/intro.R)
 
 Readings:  
 - [Introduction to RMarkdown](http://rmarkdown.rstudio.com)  
