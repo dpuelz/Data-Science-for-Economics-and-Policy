@@ -18,10 +18,11 @@ TAs will host a coding session on Friday from 9:00a-10:30a in CBA 4.342.  *Atten
 ## Exercises
 
 There will be individual, weekly exercises to be turned in each Tuesday by 11:59p via Canvas.  They will be posted here each Monday of the prior week.  
-<!---
 
-- [Week 1 exercises](assignments/HW1.pdf). Due 8/30. Data: [cars.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/
+
+- [Week 1 exercises](assignments/HW1.pdf). Due 1/17. Data: [cars.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/
 Data-Science-for-Economics-and-Policy/blob/main/data/cars.csv).
+<!---
 - [Week 2 exercises](assignments/HW2.pdf). Due 9/6. Data: [turnout.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/
 Data-Science-for-Economics-and-Policy/blob/main/data/turnout.csv) and [STAR.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/
 Data-Science-for-Economics-and-Policy/blob/main/data/STAR.csv).
