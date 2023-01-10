@@ -9,7 +9,7 @@ Teaching Assistants:
 - Loren Nix (lorennix@utexas.edu)
 - Jeremy Chen (jeremychen03@gmail.com)
 
-TAs will host a coding session on Friday from 9:00a-10:30a in CBA 4.342.  *Attendance is strongly encouraged*.
+TAs will host a coding session on Friday from 9:00a-11:00a in CBA 4.342.  *Attendance is strongly encouraged*.
 
 ## Class meetings
 
