@@ -20,18 +20,32 @@ TAs will host a coding session on Friday from 9:00a-10:30a in CBA 4.342.  *Atten
 There will be individual, weekly exercises to be turned in each Tuesday by 11:59p via Canvas.  They will be posted here each Monday of the prior week.  
 <!---
 
-- [Week 1 exercises](assignments/HW1.pdf). Due 8/30. Data: [cars.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Policy-Research-Laboratory/blob/main/data/cars.csv).
-- [Week 2 exercises](assignments/HW2.pdf). Due 9/6. Data: [turnout.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Policy-Research-Laboratory/blob/main/data/turnout.csv) and [STAR.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Policy-Research-Laboratory/blob/main/data/STAR.csv).
-- [Week 3 exercises](assignments/HW3.pdf). Due 9/13. Data: [gay.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Policy-Research-Laboratory/blob/main/data/gay.csv) and [leaders.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Policy-Research-Laboratory/blob/main/data/leaders.csv).
-- [Week 4 exercises](assignments/HW4.pdf). Due 9/20. Data: [rosca.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Policy-Research-Laboratory/blob/main/data/rosca.csv) and [predimed.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Policy-Research-Laboratory/blob/main/data/predimed.csv).
-- [Week 5 exercises](assignments/HW5.pdf). Due 9/27. Data: [fraud.RData](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Policy-Research-Laboratory/blob/main/data/fraud.RData). 
-- [Week 6 exercises](assignments/HW6.pdf). Due 10/4. Data: [justices.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Policy-Research-Laboratory/blob/main/data/justices.csv) and [yu2017sample.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Policy-Research-Laboratory/blob/main/data/yu2017sample.csv).
-- [Week 7 exercises](assignments/HW7.pdf). Due 10/11. Data: [finlit15and18.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Policy-Research-Laboratory/blob/main/data/finlit15and18.csv) and [transfer.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Policy-Research-Laboratory/blob/main/data/transfer.csv).
-- [Week 8 exercises](assignments/HW8.pdf). Due 10/18. Data: [electric-company.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Policy-Research-Laboratory/blob/main/data/electric-company.csv).
+- [Week 1 exercises](assignments/HW1.pdf). Due 8/30. Data: [cars.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/
+Data-Science-for-Economics-and-Policy/blob/main/data/cars.csv).
+- [Week 2 exercises](assignments/HW2.pdf). Due 9/6. Data: [turnout.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/
+Data-Science-for-Economics-and-Policy/blob/main/data/turnout.csv) and [STAR.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/
+Data-Science-for-Economics-and-Policy/blob/main/data/STAR.csv).
+- [Week 3 exercises](assignments/HW3.pdf). Due 9/13. Data: [gay.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/
+Data-Science-for-Economics-and-Policy/blob/main/data/gay.csv) and [leaders.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/
+Data-Science-for-Economics-and-Policy/blob/main/data/leaders.csv).
+- [Week 4 exercises](assignments/HW4.pdf). Due 9/20. Data: [rosca.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/
+Data-Science-for-Economics-and-Policy/blob/main/data/rosca.csv) and [predimed.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/
+Data-Science-for-Economics-and-Policy/blob/main/data/predimed.csv).
+- [Week 5 exercises](assignments/HW5.pdf). Due 9/27. Data: [fraud.RData](https://downgit.github.io/#/home?url=https://github.com/dpuelz/
+Data-Science-for-Economics-and-Policy/blob/main/data/fraud.RData). 
+- [Week 6 exercises](assignments/HW6.pdf). Due 10/4. Data: [justices.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/
+Data-Science-for-Economics-and-Policy/blob/main/data/justices.csv) and [yu2017sample.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/
+Data-Science-for-Economics-and-Policy/blob/main/data/yu2017sample.csv).
+- [Week 7 exercises](assignments/HW7.pdf). Due 10/11. Data: [finlit15and18.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/
+Data-Science-for-Economics-and-Policy/blob/main/data/finlit15and18.csv) and [transfer.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/
+Data-Science-for-Economics-and-Policy/blob/main/data/transfer.csv).
+- [Week 8 exercises](assignments/HW8.pdf). Due 10/18. Data: [electric-company.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/
+Data-Science-for-Economics-and-Policy/blob/main/data/electric-company.csv).
 - Week 9 exercises. None - midterm!
-- [Week 10 exercises](assignments/HW9.pdf). Due 11/1. Data: [social_marketing.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Policy-Research-Laboratory/blob/main/data/social_marketing.csv).
+- [Week 10 exercises](assignments/HW9.pdf). Due 11/1. Data: [social_marketing.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Data-Science-for-Economics-and-Policy/blob/main/data/social_marketing.csv).
 - [Week 11 exercises](assignments/HW10.pdf). Due 11/8.  This homework asks for initial project summaries.
-- [Week 12 exercises](assignments/HW11.pdf). Due 11/15. Data: [newspapers.RData](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Policy-Research-Laboratory/blob/main/data/newspapers.RData). 
+- [Week 12 exercises](assignments/HW11.pdf). Due 11/15. Data: [newspapers.RData](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Policy-Resea
+Data-Science-for-Economics-and-Policyata/newspapers.RData). 
 
 --->
 
@@ -77,8 +91,8 @@ Readings:
 Slides: [Causality](slides/causality.pdf)
 
 Exercises (in-class):
-- [Draft lottery](code/draftlottery.md) and [survey.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Policy-Research-Laboratory/blob/main/data/survey.csv)
-- [Minimum wage - uncommented code](code/causality_minwage.R) and [minwage.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Policy-Research-Laboratory/blob/main/data/minwage.csv)
+- [Draft lottery](code/draftlottery.md) and [survey.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Data-Science-for-Economics-and-Policy/blob/main/data/survey.csv)
+- [Minimum wage - uncommented code](code/causality_minwage.R) and [minwage.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Data-Science-for-Economics-and-Policy/blob/main/data/minwage.csv)
 
 Code for class:
 - [Simple causal analysis](code/causality1.R)
@@ -110,7 +124,7 @@ Code for class:
 Slides: [Unsupervised learning](slides/unsupervised.pdf)
 
 Code for class:
-- [K-means++](code/cars.R) and [cars.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Policy-Research-Laboratory/blob/main/data/cars.csv)
+- [K-means++](code/cars.R) and [cars.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Data-Science-for-Economics-and-Policy/blob/main/data/cars.csv)
 - Hierarchical clustering [example 1](code/linkage_minmax.R) and [example 2](code/hclust_examples.R)
 - [PCA introduction](code/pca_intro.R)
 - PCA examples: [NBC shows](code/nbc.R), [Congress](code/congress109.R), [ERCOT](code/ercot_PCA.R)
@@ -123,7 +137,7 @@ Code for class:
 - [Medici family](code/medici.R)
 - [Playlists](code/playlists.R)
 - A useful network visualization software: [Gephi](https://gephi.org)
-- [Text example](code/tm_examples.R) with [data](https://github.com/dpuelz/Policy-Research-Laboratory/tree/main/data/ReutersC50/C50test/SimonCowell).
+- [Text example](code/tm_examples.R) with [data](https://github.com/dpuelz/Data-Science-for-Economics-and-Policy/tree/main/data/ReutersC50/C50test/SimonCowell).
 - [Price elasticity of beer](code/smallbeer.R)
 
 ### (7) Advanced topics in causal inference
