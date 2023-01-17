@@ -95,7 +95,7 @@ mean(resumeB$call) # callback rate for blacks
 ## subset whites only
 resumeW <- resume[resume$race == "white", ] 
 dim(resumeW) # this data.frame has fewer rows than the original data.frame
-mean(resumeW$call) # callback rate for blacks
+mean(resumeW$call) # callback rate for whites
 
 ## keep "call" and "firstname" variables 
 ## also keep observations with black female-sounding names
