@@ -1,4 +1,4 @@
-# Draft lottery: PRL in-class exercise
+# Draft lottery: FIN 372 in-class exercise
 
 This exercise is based on the following paper:
 
