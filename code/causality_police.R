@@ -21,11 +21,11 @@ plot(network,xlab='',ylab='',pch=19,cex=0.4,col=rgb(0.5,0.5,0.5,alpha=0.5),xaxt=
 
 # What do our outcomes look like?  Let's create a "crime index"
 head(outcomes)
-Y = (outcomes$hmotos +  outcomes$hcarros)*0.221 + 
+Y = (outcomes$hmotos +outcomes$hcarros)*0.221 + 
   outcomes$homicidio*0.550 + outcomes$lesiones*0.112 + 
   outcomes$hpersonas*0.116
 names(Y) = rownames(outcomes)
-points(network,col=rgb(1,0,0,alpha=0.5),cex=0.5*Y,pch=19)
+points(network,col=rgb(1,0,0,alpha=0.5),cex=0.6*Y,pch=19)
 
 # Let's plot the observed treatment
 dim(Z)
@@ -79,6 +79,7 @@ DiM_observed = DiM_function(Z[,1],Yobs)
 # calculate alternative DiM's in a for loop
 DiM_alt = c()
 for(i in 1:ncol(Z[,-1])){
+  print(i)
   DiM_alt = c(DiM_alt,DiM_function(Z[,i+1],Yobs))
 }
 
