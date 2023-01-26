@@ -10,7 +10,9 @@ DiM_function = function(Z,Y){
 set.seed(1)
 Yobs = rnorm(20)
 Zobs = rbinom(20,1,0.5)
-Yobs[Zobs==1] = Yobs[Zobs==1] + 5 #additive treatment effect of 0.1
+tau = 1 # additive treatment effect of 0.1
+Yobs[Zobs==1] = Yobs[Zobs==1] + tau
+boxplot(Yobs~Zobs)
 Tobs = DiM_function(Zobs,Yobs)
 
 Tprime = c()
