@@ -23,10 +23,8 @@ There will be individual, weekly exercises to be turned in each Tuesday by 11:59
 - [Week 1 exercises](assignments/HW1.pdf). Due 1/17. Data: [cars.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Data-Science-for-Economics-and-Policy/blob/main/data/cars.csv).
 - [Week 2 exercises](assignments/HW2.pdf). Due 1/24. Data: [turnout.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Data-Science-for-Economics-and-Policy/blob/main/data/turnout.csv) and [STAR.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Data-Science-for-Economics-and-Policy/blob/main/data/STAR.csv).
 - [Week 3 exercises](assignments/HW3.pdf). Due 1/31. Data: [gay.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Data-Science-for-Economics-and-Policy/blob/main/data/gay.csv) and [leaders.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Data-Science-for-Economics-and-Policy/blob/main/data/leaders.csv).
+- [Week 4 exercises](assignments/HW4.pdf). Due 2/7. Data: [rosca.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Data-Science-for-Economics-and-Policy/blob/main/data/rosca.csv) and [predimed.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Data-Science-for-Economics-and-Policy/blob/main/data/predimed.csv).
 <!---
-- [Week 4 exercises](assignments/HW4.pdf). Due 9/20. Data: [rosca.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/
-Data-Science-for-Economics-and-Policy/blob/main/data/rosca.csv) and [predimed.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/
-Data-Science-for-Economics-and-Policy/blob/main/data/predimed.csv).
 - [Week 5 exercises](assignments/HW5.pdf). Due 9/27. Data: [fraud.RData](https://downgit.github.io/#/home?url=https://github.com/dpuelz/
 Data-Science-for-Economics-and-Policy/blob/main/data/fraud.RData). 
 - [Week 6 exercises](assignments/HW6.pdf). Due 10/4. Data: [justices.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/
