@@ -45,7 +45,7 @@ Data-Science-for-Economics-and-Policyata/newspapers.RData).
 
 ## Midterm and Project
 
-Details about the midterm on 10/20 and the final project will be provided at a later date.
+Details about the midterm and final project will be provided at a later date.
 
 <!---
 
