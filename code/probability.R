@@ -14,7 +14,6 @@ barplot(dbinom(k_grid, N, P), names.arg = k_grid,
         ylab='Probability')
 
 # Left tail area
-sum(dbinom(0:5, N, P))
 sum(dbinom(12:140, N, P)) # this is the answer to our question on the slides!
 1 - pbinom(11, size=N, prob=P) # using the cumulative distribution function instead
 
