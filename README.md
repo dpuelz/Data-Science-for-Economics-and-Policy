@@ -26,11 +26,8 @@ There will be individual, weekly exercises to be turned in each Tuesday by 11:59
 - [Week 4 exercises](assignments/HW4.pdf). Due 2/7. Data: [rosca.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Data-Science-for-Economics-and-Policy/blob/main/data/rosca.csv) and [predimed.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Data-Science-for-Economics-and-Policy/blob/main/data/predimed.csv).
 - [Week 5 exercises](assignments/HW5.pdf). Due 2/14. Data: [fraud.RData](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Data-Science-for-Economics-and-Policy/blob/main/data/fraud.RData). 
 - [Week 6 exercises](assignments/HW6.pdf). Due 2/21. Data: [justices.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Data-Science-for-Economics-and-Policy/blob/main/data/justices.csv) and [yu2017sample.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Data-Science-for-Economics-and-Policy/blob/main/data/yu2017sample.csv).
-
+- [Week 7 exercises](assignments/HW7.pdf). Due 2/28. Data: [finlit15and18.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Data-Science-for-Economics-and-Policy/blob/main/data/finlit15and18.csv) and [transfer.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Data-Science-for-Economics-and-Policy/blob/main/data/transfer.csv).
 <!---
-- [Week 7 exercises](assignments/HW7.pdf). Due 10/11. Data: [finlit15and18.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/
-Data-Science-for-Economics-and-Policy/blob/main/data/finlit15and18.csv) and [transfer.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/
-Data-Science-for-Economics-and-Policy/blob/main/data/transfer.csv).
 - [Week 8 exercises](assignments/HW8.pdf). Due 10/18. Data: [electric-company.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/
 Data-Science-for-Economics-and-Policy/blob/main/data/electric-company.csv).
 - Week 9 exercises. None - midterm!
