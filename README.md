@@ -40,13 +40,10 @@ Data-Science-for-Economics-and-Policyata/newspapers.RData).
 
 ## Midterm and Project
 
-Details about the midterm and final project will be provided at a later date.
 
-<!---
 
-Details about the midterm on 10/20 and the final project can be found [here](slides/PRL-project_midterm.pdf).
+Details about the midterm on 3/9 and the final project can be found [here](slides/project_midterm.pdf).
 
---->
 
 A couple places to look for data:
 - [Harvard Dataverse](https://dataverse.harvard.edu).  Compilation of data (and code) from research projects ranging from medicine and law to business and public policy.  Often accompanied by a peer-reviewed paper.
