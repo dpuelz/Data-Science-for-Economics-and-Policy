@@ -22,8 +22,8 @@ head(load_data)
 # throughout Texas and the surrounding region
 # Note: I've imputed a handful of sporadic missing values
 # Source: National Weather Service
-temperature_impute = read.csv("../data/temperature_impute.csv", row.names=1)
-station_data = read.csv("../data/station_data.csv", row.names=1)
+temperature_impute = read.csv("../data/ercot/temperature_impute.csv", row.names=1)
+station_data = read.csv("../data/ercot/station_data.csv", row.names=1)
 
 # take a peak at the weather station data
 head(temperature_impute)
@@ -68,7 +68,7 @@ head(station_data)
 
 # plot the coordinates of the weather stations
 plot_usmap(include = c("TX", "LA", "OK", "NM", "AR")) + 
-  geom_point(data=station_data, aes(x=lon.1, y=lat.1))
+  geom_point(data=station_data, aes(x=x, y=y))
 
 
 #### 
@@ -115,20 +115,20 @@ p0 = plot_usmap(include = c("TX", "LA", "OK", "NM", "AR")) +
 # (look at the numbers on the scale)
 # the corresponding score is positive when temp is above average across texas
 # and negative when temp is below average
-p0 + geom_point(data=station_data, aes(x=lon.1, y=lat.1, color=PC1))
+p0 + geom_point(data=station_data, aes(x=x, y=y, color=PC1))
 
 # clearly contrasting temperature along the coast versus everywhere else
 # probably useful for predicting power load in Houston.
 # the corresponding score is positive whenever the coast is warmer than
 # the rest of texas, relatively speaking (i.e "hot for houston" and "cool for Amarillo")
-p0 + geom_point(data=station_data, aes(x=lon.1, y=lat.1, color=PC2))
+p0 + geom_point(data=station_data, aes(x=x, y=y, color=PC2))
 
 # contrasting the Rio Grande Valley and desert-like parts
 # of Texas and New Mexico with everywhere else
-p0 + geom_point(data=station_data, aes(x=lon.1, y=lat.1, color=PC3))
+p0 + geom_point(data=station_data, aes(x=x, y=y, color=PC3))
 
 # contrasting central texas with elsewhere
-p0 + geom_point(data=station_data, aes(x=lon.1, y=lat.1, color=PC4))
+p0 + geom_point(data=station_data, aes(x=x, y=y, color=PC4))
 
 # far south texas vs everywhere else
 p0 + geom_point(data=station_data, aes(x=lon.1, y=lat.1, color=PC5))
