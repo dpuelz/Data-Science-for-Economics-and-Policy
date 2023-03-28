@@ -58,7 +58,7 @@ inspect(subset(musicrules, confidence > 0.7))
 
 
 # graph-based visualization
-sub1 = subset(musicrules, subset=confidence > 0.01 & support > 0.005)
+sub1 = subset(musicrules, subset=confidence > 0.5 & support > 0.005)
 summary(sub1)
 plot(sub1, method='graph')
 ?plot.rules
