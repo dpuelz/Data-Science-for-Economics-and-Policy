@@ -57,7 +57,9 @@ A couple places to look for data:
 Project presentation dates are:
 
 April 13: Charles | Albert | Khushi + Pranav
+
 April 18: Jack + Sernry | Shane + Jose + Jeffery | Rushil
+
 April 20: Kate + Ani + Sandra
 
 
