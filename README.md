@@ -54,6 +54,13 @@ A couple places to look for data:
 - [Tyler Moore's website: Cybersecurity and Crypto-related research](https://tylermoore.ens.utulsa.edu/pub.html).
 
 
+Project presentation dates are:
+
+April 13: Charles | Albert | Khushi + Pranav
+April 18: Jack + Sernry | Shane + Jose + Jeffery | Rushil
+April 20: Kate + Ani + Sandra
+
+
 ## Software
 
 Please install [R](http://www.r-project.org) and then [RStudio](http://www.rstudio.org) on your own computer (you want the "RStudio Desktop" version).  Both are free and work on all platforms.  R is the underlying data-analysis program we'll use in this course, while RStudio provides a nice front-end interface to R that makes certain repetitive steps (e.g. loading data, saving plots) very simple.
