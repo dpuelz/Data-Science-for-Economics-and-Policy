@@ -42,6 +42,15 @@ Data-Science-for-Economics-and-Policyata/newspapers.RData).
 
 
 
+### Project presentation dates are:
+
+April 13: Charles | Albert | Khushi + Pranav
+
+April 18: Jack + Sernry | Shane + Jose + Jeffery | Rushil
+
+April 20: Kate + Ani + Sandra
+
+
 Details about the midterm on 3/9 and the final project can be found [here](slides/project_midterm.pdf).
 
 
@@ -54,13 +63,6 @@ A couple places to look for data:
 - [Tyler Moore's website: Cybersecurity and Crypto-related research](https://tylermoore.ens.utulsa.edu/pub.html).
 
 
-Project presentation dates are:
-
-April 13: Charles | Albert | Khushi + Pranav
-
-April 18: Jack + Sernry | Shane + Jose + Jeffery | Rushil
-
-April 20: Kate + Ani + Sandra
 
 
 ## Software
