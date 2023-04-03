@@ -31,11 +31,7 @@ There will be individual, weekly exercises to be turned in each Tuesday by 11:59
 - Week 9 exercises. None - midterm!
 - [Week 10 exercises](assignments/HW9.pdf). Due 3/28. Data: [social_marketing.csv](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Data-Science-for-Economics-and-Policy/blob/main/data/social_marketing.csv).
 - [Week 11 exercises](assignments/HW10.pdf). Due 4/4.  This homework asks for initial project summaries.
-<!---
-- [Week 12 exercises](assignments/HW11.pdf). Due 11/15. Data: [newspapers.RData](https://downgit.github.io/#/home?url=https://github.com/dpuelz/Policy-Resea
-Data-Science-for-Economics-and-Policyata/newspapers.RData). 
-
---->
+- [Week 12 exercises](assignments/HW11.pdf). Due 4/11. Data: [newspapers.RData](https://downgit.github.io//#/home?url=https://github.com/dpuelz/Data-Science-for-Economics-and-Policy/blob/main/data/newspapers.RData). 
 
 
 ## Midterm and Project
