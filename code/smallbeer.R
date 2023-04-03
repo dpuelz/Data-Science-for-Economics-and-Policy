@@ -32,6 +32,11 @@ oneforall = lm(log(units) ~ log(price)*item, data=beer)
 coef(oneforall)
 hist(coef(oneforall)) ## super noisy zeros
 
+# testing
+elas = function(beta){
+  1.01^beta - 1
+}
+
 # getting the elasticities?
 # add the main effect to each interaction term.
 price_main = coef(oneforall)[2]
