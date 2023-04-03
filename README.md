@@ -42,7 +42,7 @@ Data-Science-for-Economics-and-Policyata/newspapers.RData).
 
 
 
-#### Project presentation dates are:
+#### Project presentation dates:
 
 - April 13: Charles / Albert / Khushi + Pranav
 - April 18: Jack + Sernry / Shane + Jose + Jeffery / Rushil
