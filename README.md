@@ -41,8 +41,8 @@ There will be individual, weekly exercises to be turned in each Tuesday by 11:59
 #### Project presentation dates:
 
 - April 13: Charles / Albert / Khushi + Pranav
-- April 18: Jack + Sernry / Shane + Jose + Jeffery / Rushil
-- April 20: Kate + Ani + Sandra
+- April 18: Jack + Sernry / Kate + Ani + Sandra / Rushil
+- April 20: Shane + Jose + Jeffery 
 
 
 Details about the midterm on 3/9 and the final project can be found [here](slides/project_midterm.pdf).
