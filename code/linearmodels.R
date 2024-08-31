@@ -1,11 +1,7 @@
 library(lubridate)
+library(tidyverse)
 
-# example 1: of simple linear regression
-data = read.csv('../data/housedata.csv')
-fit = lm(Price~Size,data)
-summary(fit)
-
-# example 2: ERCOT
+# ERCOT
 # Power grid load every hour for 6 1/2 years
 # throughout the 8 ERCOT regions of Texas
 # units of grid load are megawatts.
@@ -39,12 +35,14 @@ summary(lm1)
 
 plot(load_combined$KHOU,load_combined$COAST,col=rgb(0,0,0,alpha=0.1),pch=19,cex=0.8)
 abline(lm1,lty=1,lwd=4,col='blue')
+autoplot(lm1)
 
 # What about an additional variable?
-KHOU_squared = load_combined$KHOU^2
-load_combined$KHOU_squared = KHOU_squared
-lm2 = lm(COAST ~ KHOU + KHOU_squared, data=load_combined)
+K2 = load_combined$KHOU^2
+load_combined$K2 = K2
+lm2 = lm(COAST ~ KHOU + K2, data=load_combined)
 summary(lm2)
+autoplot(lm2)
 
 plot(load_combined$KHOU,load_combined$COAST,col=rgb(0,0,0,alpha=0.1),pch=19,cex=0.8)
 
@@ -56,4 +54,24 @@ xnew = seq(xmin,xmax,length.out=500)
 quadfit = lm2$coefficients[1] + lm2$coefficients[2]*xnew + lm2$coefficients[3]*xnew^2
 lines(xnew,quadfit,col=2,lwd=3)
 
+# What about a crazy model?
+# What about an additional variable?
+K3 = load_combined$KHOU^3
+K4 = load_combined$KHOU^4
+K5 = load_combined$KHOU^5
+K6 = load_combined$KHOU^6
+load_combined$K3 = K3
+load_combined$K4 = K4
+load_combined$K5 = K5
+load_combined$K6 = K6
 
+lm3 = lm(COAST ~ KHOU + K2 + K3 + K4 + K5 + K6, data=load_combined)
+
+x = load_combined$KHOU
+xmin = floor(min(x))
+xmax = floor(max(x))
+xnew = seq(xmin,xmax,length.out=500)
+
+crazyfit = lm3$coefficients[1] + lm3$coefficients[2]*xnew + lm3$coefficients[3]*xnew^2 + lm3$coefficients[4]*xnew^3 + lm3$coefficients[5]*xnew^4 + lm3$coefficients[6]*xnew^5 + lm3$coefficients[7]*xnew^6
+
+lines(xnew,crazyfit,col=4,lwd=3)

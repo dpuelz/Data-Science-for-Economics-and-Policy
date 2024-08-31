@@ -56,5 +56,5 @@ coef.R = predict(CV.R,type="coefficients",s=LamR)
 coef.L = predict(CV.L,type="coefficients",s=LamL)
 
 par(mfrow=c(1,1))
-plot(abs(coef.R[2:20]),abs(coef.L[2:20]),ylim=c(0,1),xlim=c(0,1))
+plot(abs(coef.R[2:20]),abs(coef.L[2:20]),ylim=c(0,1),xlim=c(0,1),ylab="LASSO betas",xlab="Ridge betas",pch=19,col="gray")
 abline(0,1)

@@ -64,11 +64,11 @@ confint(lm(Y_P~D_P+XO))[2,]
 confint(lm(Y_M~D_M+XO))[2,]
 
 # OLS confidence intervals for the causal effect (BIG model)
-CE_V_OLS = confint(lm(Y_V~D_V+X))[2,]
-CE_P_OLS = confint(lm(Y_P~D_P+X))[2,]
-CE_M_OLS = confint(lm(Y_M~D_M+X))[2,]
+CE_V_OLS = confint(lm(Y_V~D_V+X))[2,]; CE_V_OLS
+CE_P_OLS = confint(lm(Y_P~D_P+X))[2,]; CE_P_OLS
+CE_M_OLS = confint(lm(Y_M~D_M+X))[2,]; CE_M_OLS
 
-# OLS c
+# saving OLS CI for violent crime (small model)
 CE_V_OLSsmallmodel = confint(lm(Y_V~D_V+XO))[2,]
 
 ## lasso-based selection (naive - large model)
@@ -116,7 +116,7 @@ CE_V_naive
 yval = c(1,1,2,2,3,3,4,4)
 xval = unlist(c(CE_V_OLSsmallmodel,CE_V_OLS,CE_V_naive,CE_V_best))
 
-plot(xval,yval,col='white',bty='n',xlab='causal effect',main='Effect of abortion rate on violent crime')
+plot(xval,yval,col='white',bty='n',xlab='causal effect',main='Causal effect of abortion rate on violent crime')
 legend('topleft',legend=c('OLS-small','OLS-large','Reg-naive','Reg-best'),col=c('red','blue','orange','green'),lwd=4)
 abline(v=0,lty=2)
 lines(xval[1:2],yval[1:2],lwd=10,col='red')
